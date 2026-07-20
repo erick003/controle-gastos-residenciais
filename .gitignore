@@ -1,0 +1,25 @@
+# Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node / React
+node_modules/
+dist/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Banco de Dados Local (SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
