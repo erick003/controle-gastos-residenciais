@@ -1,0 +1,147 @@
+Compila├º├úo de 19/07/2026 21:39:16 iniciada.
+     1>Projeto "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj" no n├│ 1 (Clean destino(s)).
+     1>CoreClean:
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.dll".
+     1>C:\Program Files\dotnet\sdk\8.0.423\Microsoft.Common.CurrentVersion.targets(5823,5): warning MSB3061: N├úo ├® poss├¡vel excluir o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.dll". Access to the path 'C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.dll' is denied. O arquivo ├® bloqueado por: "pwsh (7764)" [C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj]
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll".
+     1>C:\Program Files\dotnet\sdk\8.0.423\Microsoft.Common.CurrentVersion.targets(5823,5): warning MSB3061: N├úo ├® poss├¡vel excluir o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll". Access to the path 'C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll' is denied. O arquivo ├® bloqueado por: "pwsh (7764)" [C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj]
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\appsettings.Development.json".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\appsettings.json".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.exe".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.deps.json".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.runtimeconfig.json".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Humanizer.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.OpenApi.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Mono.TextTemplating.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\System.CodeDom.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\System.Composition.Convention.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\System.Composition.Hosting.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\System.Composition.Runtime.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\System.Composition.TypedParts.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.csproj.AssemblyReference.cache".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.GeneratedMSBuildEditorConfig.editorconfig".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.AssemblyInfoInputs.cache".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.AssemblyInfo.cs".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.csproj.CoreCompileInputs.cache".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.MvcApplicationPartsAssemblyInfo.cs".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.MvcApplicationPartsAssemblyInfo.cache".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.sourcelink.json".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\staticwebassets.build.json".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GastosResidenciais.API.props".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GastosResidenciais.API.props".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GastosResidenciais.API.props".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosRe.86FDE8E5.Up2Date".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\refint\GastosResidenciais.API.dll".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.pdb".
+         Excluindo o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\obj\Debug\net8.0\GastosResidenciais.API.genruntimeconfig.cache".
+     1>Projeto de compila├º├úo pronto "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj" (Clean destino(s)).
+
+Compila├º├úo com ├¬xito.
+
+       "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj" (Clean destino) (1) ->
+       (CoreClean destino) -> 
+         C:\Program Files\dotnet\sdk\8.0.423\Microsoft.Common.CurrentVersion.targets(5823,5): warning MSB3061: N├úo ├® poss├¡vel excluir o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.dll". Access to the path 'C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\GastosResidenciais.API.dll' is denied. O arquivo ├® bloqueado por: "pwsh (7764)" [C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj]
+         C:\Program Files\dotnet\sdk\8.0.423\Microsoft.Common.CurrentVersion.targets(5823,5): warning MSB3061: N├úo ├® poss├¡vel excluir o arquivo "C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll". Access to the path 'C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll' is denied. O arquivo ├® bloqueado por: "pwsh (7764)" [C:\Users\erick\controle-gastos-residenciais\backend\GastosResidenciais.API\GastosResidenciais.API.csproj]
+
+    2 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:03.03
